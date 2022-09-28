@@ -1,11 +1,14 @@
 ---
 layout: page
-title: project 2
-description: a project with a background image
-img: assets/img/3.jpg
+title: js-play-evolutions
+description: npm package for running database migrations
+redirect: https://www.npmjs.com/package/js-play-evolutions
 importance: 2
 category: work
 ---
+
+{% include repository/repo.html repository="lycheeai/js-play-evolutions" %}
+
 
 Every project has a beautiful feature showcase page.
 It's easy to include images in a flexible 3-column grid format.
