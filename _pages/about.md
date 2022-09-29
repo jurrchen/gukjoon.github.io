@@ -2,7 +2,7 @@
 layout: about
 title: About
 permalink: /
-subtitle: Full stack engineer with deep specialization in backend.
+subtitle: T-shaped engineer looking to web3.
 
 profile:
   align: right
@@ -14,12 +14,14 @@ selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true  # includes social icons at the bottom of the page
 ---
 
+Hiya,
+
+I'm a [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) software engineer with experience in a wide variety of specializations. I've done backend, frontend, devops, devtools, you name it.
+
+I do have a deep specialization in information retrieval and real-time data flows, particularly with graph-structured information. I'm currently open sourcing a [graph database for storing source code](https://docs.sourcescape.io). Still a work in progress, but you can check it out here:
 
 {% include repository/repo.html repository="sourcescapeio/sourcescape" %}
 
+Over the next two years, I want to build up a deep understanding of web3. As overhyped as it is, having a public place to store and compute on agreed-upon information is incredibly powerful and looks to be a potential solution to the problem of platform centralization we've created with web2. There's still a long way to go and I'm excited to join in on the journey.
 
-Write your biography here. Tell the world about yourself. Link to your favorite [subreddit](http://reddit.com). You can put a picture in, too. The code is already in, just name your picture `prof_pic.jpg` and put it in the `img/` folder.
-
-Put your address / P.O. box / other info right below your picture. You can also disable any these elements by editing `profile` property of the YAML header of your `_pages/about.md`. Edit `_bibliography/papers.bib` and Jekyll will render your [publications page](/al-folio/publications/) automatically.
-
-Link to your social media connections, too. This theme is set up to use [Font Awesome icons](http://fortawesome.github.io/Font-Awesome/) and [Academicons](https://jpswalsh.github.io/academicons/), like the ones below. Add your Facebook, Twitter, LinkedIn, Google Scholar, or just disable all of them.
+Outside of work, I do some Brazilian jiu-jitsu (decent) and tennis (terrible). Everyday I mourn the loss of MF Doom. And do talk to me about AI art and its implications for creatives.
