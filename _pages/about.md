@@ -19,5 +19,3 @@ Hiya,
 I'm a [T-shaped](https://en.wikipedia.org/wiki/T-shaped_skills) software engineer with experience in a wide variety of specializations. I've done backend, frontend, devops, devtools, you name it.
 
 I do have a *deep specialization in information retrieval and real-time data flows*, particularly with graph-structured information. I'm currently open sourcing a [graph database for storing source code](https://docs.sourcescape.io). Still a work in progress, but you can check it out here:
-
-{% include repository/repo.html repository="sourcescapeio/sourcescape" %}
